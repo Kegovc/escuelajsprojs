@@ -1,7 +1,7 @@
-import MediaPlayer from './MediaPlayer'
-import AutoPlay from './plugins/AutoPlay'
-import AutoPause from './plugins/AutoPause'
-import AdsPlugin from './plugins/Ads';
+import MediaPlayer from '@kegovc/platzimediaplayer'
+import AutoPlay from '@kegovc/platzimediaplayer/lib/plugins/AutoPlay'
+import AutoPause from '@kegovc/platzimediaplayer/lib/plugins/AutoPause'
+import AdsPlugin from '@kegovc/platzimediaplayer/lib/plugins/Ads';
 
 
 
